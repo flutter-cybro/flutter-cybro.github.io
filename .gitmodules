@@ -1,0 +1,3 @@
+[submodule "shehsad_repo"]
+	path = shehsad_repo
+	url = https://github.com/flutter-cybro/shehsad_repo.git
